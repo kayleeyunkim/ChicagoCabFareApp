@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chicago Cab Fare App</string>
+    <string name="cab_grabber">Cab Grabber</string>
+    <string name="Estimated_btn">Estimate Cost</string>
+    <string name="Milage">Milage?</string>
+    <string name="miles">miles</string>
+    <string name="note">The cab fare has an initial fee of $3.00 and the mileage rate of $3.25 per mile.</string>
+    <string-array name="car_group">
+        <item>Smart Car</item>
+        <item>Traditional Sedan</item>
+        <item>Minivan</item>
+    </string-array>
+    <string name="calculate">Calculate Cost</string>
+    <string name="you">You choosed</string>
+</resources>
